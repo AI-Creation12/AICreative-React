@@ -76,7 +76,7 @@ function App() {
     ));
 
     try {
-      const response = await fetch('https://aicreative-70lp.onrender.com:10000/upload', {
+      const response = await fetch('https://aicreative-back.onrender.com:10000/upload', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -169,7 +169,7 @@ function App() {
     
     try {
       
-      const response = await fetch('https://aicreative-70lp.onrender.com:10000/upload', {
+      const response = await fetch('https://aicreative-back.onrender.com:10000/upload', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
