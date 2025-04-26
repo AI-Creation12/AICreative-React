@@ -157,7 +157,7 @@ export const ImageUploadForm: React.FC<ImageUploadFormProps> = ({
       <div className='flex justify-center py-4'>
       <ReCapcha 
         ref={recaptchaRef}
-        sitekey="6LdKGyIrAAAAALaJkot260SP8d1dNa7agre57NIu"
+        sitekey="6Lf4cyUrAAAAABa3rTwxo3-bdV1gFRDgZ5tRqwWz"
         onChange={handleCaptchaChange}
         />
       </div>
