@@ -7,7 +7,7 @@ import ReactGA from "react-ga4";
 
 const root = createRoot(document.getElementById('root')!);
 
-ReactGA.initialize('G-ZJM4W7383T');
+ReactGA.initialize('G-HGS3ECJ9EK');
 ReactGA.send('pageview');
 
 
